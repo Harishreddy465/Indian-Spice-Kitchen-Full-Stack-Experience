@@ -1,0 +1,37 @@
+[
+    {
+        "name":"Biryani",
+        "price":17,
+        "desc":"Chicken Biryani is a savory chicken and rice dish that includes layers of chicken, rice, and aromatics that are steamed together. The bottom layer of rice absorbs all the chicken juices as it cooks, giving it a tender texture and rich flavor, while the top layer of rice turns out white and fluffy.",
+        "itemId":"1",
+        "imgurl":"../assets/Images/Biryani.jpg"
+    },
+    {
+        "name":"Butter chicken",
+        "price":20,
+        "desc":"Butter chicken is a mild, sweet dish that pairs perfectly with Basmati rice or naan bread. A meal might include tandoori chicken, mild curry and basmati rice, and steamed vegetables.",
+        "itemId":"2",
+        "imgurl":"../assets/Images/ButterChicken.jpg"
+    },
+    {
+        "name":"Chicken 65",
+        "price":18,
+        "desc":"It is a spicy, deep-fried chicken dish originating from Hotel Buhari, Chennai, India, as an entrance, or quick snack. The flavour of the dish can be attributed to red chillies, but the exact set of ingredients for the recipe can vary.",
+        "itemId":"3",
+        "imgurl":"../assets/Images/chicken65.jpeg"
+    },
+    {
+        "name":"Chicken Soup",
+        "price":10,
+        "desc":"Chicken soup is a soup made from chicken, simmered in water, usually with various other ingredients. The classic chicken soup consists of a clear chicken broth, often with pieces of chicken or vegetables; common additions are pasta, noodles, dumplings, or grains such as rice and barley.",
+        "itemId":"5",
+        "imgurl":"../assets/Images/chickenSoup.jpeg"
+    },
+    {
+        "name":"Naan Bread",
+        "price":3,
+        "desc":"Naan is a leavened flatbread made from white flour. Typically, yeast and yogurt are used to leaven the bread. The yogurt also gives the naan its characteristic texture and flavor. Traditional Naan is baked in a clay oven, called a tandoor.",
+        "itemId":"4",
+        "imgurl":"../assets/Images/naan.jpeg"
+    }
+]
