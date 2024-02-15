@@ -1,7 +1,7 @@
 Indian Spice Kitchen
 
 Overview:
-Welcome to Gastronomix, a captivating restaurant website meticulously crafted with HTML, CSS, JavaScript, SQL, and Python Flask. This project seamlessly integrates front-end technologies for an engaging user experience, while the back-end, powered by Python Flask and SQL, manages dynamic content and transactions.
+Welcome to Indian Spice Kitchen, a captivating restaurant website meticulously crafted with HTML, CSS, JavaScript, SQL, and Python Flask. This project seamlessly integrates front-end technologies for an engaging user experience, while the back-end, powered by Python Flask and SQL, manages dynamic content and transactions.
 
 Features:
 
